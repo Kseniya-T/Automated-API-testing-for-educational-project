@@ -1,0 +1,16 @@
+URL = 'https://cbfa258c-0f86-49b9-9ee5-637b454288a9.serverhub.praktikum-services.ru'
+POST_MAIN_PRODUCTS = '/api/v1/products/kits'
+GET_COURIERS = '/api/v1/couriers'
+POST_WAREHOUSES = '/api/wsdl'
+POST_COURIERS_COST = '/api/v1/couriers/check'
+PUT_COST = '/api/v1/products'
+PUT_COST_ID = '/1'              #ID для вставки в URL
+BASKET = '/api/v1/orders'
+DELETE_BASKET_ID = '/10'        #ID для вставки в URL
+CREATE_USER = '/api/v1/users'
+GET_ORDER_MODEL = '/api/db/resources/order_model.csv'
+GET_KIT_MODEL = '/api/db/resources/kit_model.csv'
+GET_PRODUCT_MODEL = '/api/db/resources/product_model.csv'
+PUT_PRODUCTS_BASKET = '/api/v1/orders'
+PUT_BASKET_ID = '/5'             #ID для вставки в URL
+POST_CREATE_KIT = '/api/v1/kits'
